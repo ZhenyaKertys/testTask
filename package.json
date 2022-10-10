@@ -1,0 +1,22 @@
+{
+  "name": "Test Task Kertys Yevhenii",
+  "version": "1.0.0",
+  "description": "Test task for Global Teams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhenyaKertys/testTask.git"
+  },
+  "author": "Zhenya Kertys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhenyaKertys/testTask/issues"
+  },
+  "homepage": "https://github.com/ZhenyaKertys/testTask#readme",
+  "devDependencies": {
+    "cypress": "^10.9.0"
+  }
+}
