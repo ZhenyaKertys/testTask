@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ZhenyaKertys/testTask#readme",
   "devDependencies": {
-    "cypress": "^10.9.0"
+    "cypress": "^10.9.0",
+    "cypress-xpath": "^2.0.1"
   }
 }
